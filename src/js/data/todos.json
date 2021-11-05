@@ -1,0 +1,52 @@
+[
+    {
+        "id": "0000001",
+        "category": "DMIT2025",
+        "title": "MOvies database",
+        "isComplete": true,
+        "startDate": "Monday November 1",
+        "startTime":"5:00pm",
+        "endDate": "Tuesday November 2",
+        "endTime":"9:00pm"
+    },
+    {
+        "id": "0000002",
+        "category": "DMIT2033",
+        "title": "XD Lab",
+        "isComplete": true,
+        "startDate": "Tuesday October 26",
+        "startTime":"9:00am",
+        "endDate": "Tuesday October 26",
+        "endTime":"9:00pm"
+    },
+    {
+        "id": "0000003",
+        "category": "DMIT2008",
+        "title": "Practice classwork",
+        "isComplete": false,
+        "startDate": "Saturday November 6",
+        "startTime":"9:00am",
+        "endDate": "Saturday November 6",
+        "endTime":"9:00pm"
+    },
+    {
+        "id": "0000004",
+        "category": "DMIT2501",
+        "title": "Complete cover letter and email",
+        "isComplete": true,
+        "startDate": "Friday October 29",
+        "startTime":"3:00pm",
+        "endDate": "Friday October 29",
+        "endTime":"5:00pm"
+    },
+    {
+        "id": "0000005",
+        "category": "DMIT2032",
+        "title": "Responsive footer and widgets",
+        "isComplete": false,
+        "startDate": "Friday November 5",
+        "startTime":"3:00pm",
+        "endDate": "Friday November 5",
+        "endTime":"9:00pm"
+    }
+]
